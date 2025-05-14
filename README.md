@@ -1,9 +1,14 @@
 Ishingiro AI is a mobile-based mental health tool built in PHP using Africa’s Talking API. It allows users with basic phones to access emotional support, counselors, and hospital contacts via USSD and SMS .
 
+
+
 Features
 USSD Menu:
 
+
+
 Assess My Feelings
+
 Talk to a Counselor
 Get Hospital Contact
 Choose Language (EN/RW/FR/SW)
