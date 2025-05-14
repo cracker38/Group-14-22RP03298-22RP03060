@@ -1,22 +1,42 @@
+Ishingiro AI – Mobile Mental Health Support
+Ishingiro AI is a mobile-based mental health tool built in PHP using the Africa’s Talking API.
+It enables users with basic phones to access emotional support, counselors, and hospital contacts via USSD and SMS.
 
-Ishingiro AI is a mobile-based mental health tool built in PHP using Africa’s Talking API. It allows users with basic phones to access emotional support, counselors, and hospital contacts via USSD and SMS .
-
-Features
-USSD Menu:
-
+ Features
+USSD Menu
 Assess My Feelings
-Talk to a Counselor
-Get Hospital Contact
-Choose Language (EN/RW/FR/SW)
-SMS Alerts:
 
-Sends supportive messages
+Talk to a Counselor
+
+Get Hospital Contact
+
+Choose Language (EN, RW, FR, SW)
+
+SMS Alerts
+ Sends supportive messages
+
 Notifies counselors for follow-up
-Shares hospital info
-Structure
-'ussd.php' – Handles USSD sessions was #which was done by my partner feza flora(florafeza1111)
-'menu.php' – Manages user navigation
-'sms.php' – Sends messages via Africa’s Talking #which was done by my partner feza flora(florafeza1111)
-'util.php' – Database and helper functions
-'DBConnection.php' - for database connection
-'ishingiroai.sql' - which defines db structure. 
+
+Shares hospital contact info
+
+Project Structure
+File	Description
+ussd.php	Handles USSD sessions (by Feza Flora - @florafeza1111)
+menu.php	Manages user navigation
+sms.php	Sends SMS via Africa’s Talking (by Feza Flora - @florafeza1111)
+util.php	Includes helper functions and database utilities
+DBConnection.php	Manages database connection
+ishingiroai.sql	Defines the database structure
+
+Credits
+Feza Flora – USSD & SMS implementation
+
+DUKUZUMUREMYI Elias – System architecture & other modules
+
+Let me know if you'd like to add:
+
+Screenshots or a usage demo
+
+API credentials setup guide
+
+Contribution guidelines
