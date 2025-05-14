@@ -18,5 +18,5 @@ Structure
 'sms.php' – Sends messages via Africa’s Talking #which was done by my partner feza flora(florafeza1111)
 'util.php' – Database and helper functions
 'DBConnection.php' - for database connection
-'ishingiroai.sql' - which defines db structure 
-==========================© Copyright ISHINGIRO AI System. All Rights Reserved================
+'ishingiroai.sql' - which defines db structure. 
+
